@@ -1,0 +1,11 @@
+tomcat-9.0.104
+
+URL : http://localhost:9090
+/ VM options : -Dfile.encoding=UTF-8
+JRE : jdk11
+HTTP port 9090
+JMX port 1099
+Deployment : Gradle: org.bitnal: javaWeb01-1.0-SNAPSHOT.war(exploded)
+Application context :
+/ Before launch : build build
+'Gradle: org.bitnal: javaWeb01-1.0-SNAPSHOT.war(exploded)'artifact

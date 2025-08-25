@@ -1,0 +1,14 @@
+1. File/New/Project
+2. Jakarta EE
+3. Name : jdbcex
+   Location : D:\javaWork
+   Template : Web Application
+   Application server : Tomcat: 9.055
+   Language : Java
+   Build System : Gradle
+   Group : org.zerock
+   Artifact : jdbcex
+   jdk : 11
+   Next
+4. Version : Java EE 8
+   Create
