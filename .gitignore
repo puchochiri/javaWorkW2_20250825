@@ -9,6 +9,8 @@ build/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+# IntelliJ VCS 설정 파일 무시
+.idea/vcs.xml
 *.iws
 *.iml
 *.ipr
